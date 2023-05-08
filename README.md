@@ -6,3 +6,5 @@
 ![Screenshot (408)](https://user-images.githubusercontent.com/58084456/236751830-77c6ccc6-6414-4841-8d86-9da35349b6e7.png)
 # Table will be sorted according to age in accending order when clicked on the heading Age.
 ![Screenshot (409)](https://user-images.githubusercontent.com/58084456/236752065-1095ad47-fd17-40c7-8e1e-0aac01c5e0c2.png)
+# When clicked on the remove button it will remove the current row.
+![Screenshot (410)](https://user-images.githubusercontent.com/58084456/236752479-69df097f-2b19-42b9-8b9c-8ad07aa7775a.png)
